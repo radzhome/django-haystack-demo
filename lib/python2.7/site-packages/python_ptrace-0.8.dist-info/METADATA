@@ -1,0 +1,26 @@
+Metadata-Version: 2.0
+Name: python-ptrace
+Version: 0.8
+Summary: python binding of ptrace
+Home-page: http://python-ptrace.readthedocs.org/
+Author: Victor Stinner
+Author-email: UNKNOWN
+License: GNU GPL v2
+Download-URL: http://python-ptrace.readthedocs.org/
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+
+python-ptrace is a Python binding of ptrace library.
+
+* Website and documentation: http://python-ptrace.readthedocs.org/
+* Documentation: see doc/ and examples/ directories.
+
+
+
