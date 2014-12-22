@@ -131,3 +131,6 @@ You should cron up a ./manage.py update_index job at whatever interval works bes
 Use Real time Signal Processor:
 
   HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
+
+
+TODO
